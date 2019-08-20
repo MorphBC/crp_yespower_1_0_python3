@@ -1,0 +1,7 @@
+
+cd zny_yespower_0_5_python3
+
+sudo python3 setup.py install
+
+
+import crp_yespower_1_0
