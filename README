@@ -1,5 +1,5 @@
 
-cd zny_yespower_0_5_python3
+cd crp_yespower_1_0_python3
 
 sudo python3 setup.py install
 
